@@ -7,7 +7,10 @@
 
 ## Description
 
-The 5M-CodeX Hunt resource is a hunting system for FiveM that allows players to participate in hunting events, track remaining time, and receive rewards for killing animals within designated hunting zones.
+The 5M-CodeX Hunt resource brings the nostalgic thrill of classic deer hunting games to the world of FiveM. In this immersive hunting experience, players can venture into designated hunting zones, where they'll face the challenge of tracking and taking down animals, just like in the old Deer Hunter games. With a dynamic countdown timer, random animal spawns, and rewards for successful hunts, this resource offers an authentic hunting adventure within the FiveM universe. Whether you're a seasoned hunter or new to the sport, 5M-CodeX Hunt promises a captivating and rewarding hunting experience for all FiveM enthusiasts.
+
+![derhunter](https://github.com/5M-CodeX/codex-hunt/assets/112611821/4d5a5c35-535d-4bc4-a1bb-51f5dbe93bc3)
+
 
 ## Features
 
